@@ -52,4 +52,4 @@ Aqui estão algumas imagens dos gráficos desenvolvidos ao longo do curso:
 ## Acesso
 
 - Para acessar o Notebook desenvolvido no projeto [clique aqui](Brasil_imigrantes.ipynb).
-- Para acessar o certificado do curso [clique aqui](https://drive.google.com/file/d/1ISKBlgJY6W-mArGGo57utnyYARa-MJjh/view?usp=sharing).
+- Para acessar o certificado do curso [clique aqui](https://drive.google.com/file/d/1jhlxz74PYLLePc0TVTCMOHDx5oxU60up/view?usp=sharing).
